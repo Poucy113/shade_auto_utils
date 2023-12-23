@@ -2,7 +2,7 @@ bl_info = {
     "name": "Weighted Normal Last & Auto Shade Smooth",
     "description": "Automatically sets weighted normal modifier last.",
     "author": "P.Cy.113",
-    "version": (0, 8, 2),
+    "version": (0, 1, 0),
     "blender": (4, 0, 2),
 }
 
